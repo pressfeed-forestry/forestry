@@ -12,7 +12,6 @@ tag:
 - Технологии
 homepage: false
 thumbnail: "../assets/uploads/handshake.jpg"
-date: 2019-03-03T17:38:22.000+00:00
 for_journalist: false
 
 ---

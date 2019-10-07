@@ -8,7 +8,6 @@ company: EvoDesk
 tag: []
 homepage: false
 thumbnail: "../assets/uploads/delovye_igry.jpg"
-date: 2019-03-03T15:18:53.000+00:00
 for_journalist: false
 
 ---

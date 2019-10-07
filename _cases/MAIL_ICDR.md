@@ -12,7 +12,6 @@ tag:
 - Психология
 homepage: false
 thumbnail: "../assets/uploads/lie.jpeg"
-date: 2019-04-10T05:35:16.000+00:00
 for_journalist: false
 
 ---

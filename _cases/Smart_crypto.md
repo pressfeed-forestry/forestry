@@ -10,7 +10,6 @@ company: Smart Crypto
 tag: []
 homepage: false
 thumbnail: "../assets/uploads/iStock-498398760.jpg"
-date: 2019-03-01T07:55:10.000+00:00
 for_journalist: false
 
 ---

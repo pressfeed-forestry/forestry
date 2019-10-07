@@ -11,7 +11,6 @@ tag:
 - Онлайн-школа
 homepage: true
 thumbnail: "../assets/uploads/глаша_заставка-2.jpg"
-date: 2019-03-01T07:05:47.000+00:00
 for_journalist: false
 
 ---

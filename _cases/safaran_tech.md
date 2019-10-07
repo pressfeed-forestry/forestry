@@ -9,7 +9,6 @@ tag:
 - Технологии
 homepage: false
 thumbnail: "../assets/uploads/IM_18_15.jpg"
-date: 2019-03-03T16:16:21.000+00:00
 for_journalist: false
 
 ---

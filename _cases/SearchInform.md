@@ -8,7 +8,6 @@ tag:
 - Технологии
 homepage: false
 thumbnail: "../assets/uploads/searchinform.jpg"
-date: 2019-03-29T16:56:38+03:00
 for_journalist: false
 
 ---

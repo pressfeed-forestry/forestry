@@ -9,7 +9,6 @@ lead: Организация публикаций в ведущих россий
 company: Российский новый университет
 tag:
 - Образование
-date: 2019-03-12T13:12:28.000+00:00
 homepage: false
 thumbnail: "../assets/uploads/rosnoy_kartinka.jpg"
 for_journalist: false

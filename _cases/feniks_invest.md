@@ -10,7 +10,6 @@ tag:
 - Недвижимость
 homepage: false
 thumbnail: "../assets/uploads/феникс_инвест.jpg"
-date: 2019-03-01T14:26:48.000+00:00
 for_journalist: false
 
 ---

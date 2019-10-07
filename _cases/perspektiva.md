@@ -11,7 +11,6 @@ tag:
 - Рекрутинг
 homepage: false
 thumbnail: "../assets/uploads/job_perspektiva.jpg"
-date: 2019-04-04T16:29:18+03:00
 for_journalist: false
 
 ---

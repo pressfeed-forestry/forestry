@@ -7,7 +7,6 @@ lead: История [адвоката Глеба Плесовских](http://w
 company: Адвокат Глеб Плесовских
 tag:
 - Личный бренд
-date: 2018-11-02T18:00:00.000+00:00
 homepage: false
 thumbnail: "../assets/uploads/thumb-case-5.jpg"
 for_journalist: false

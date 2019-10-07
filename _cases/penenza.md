@@ -10,7 +10,6 @@ tag:
 - Инвестиции
 homepage: true
 thumbnail: "../assets/uploads/Penenza_zastavka.jpg"
-date: 2019-03-07T18:38:31+00:00
 for_journalist: false
 
 ---

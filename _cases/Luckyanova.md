@@ -12,7 +12,6 @@ tag:
 - Личный бренд
 homepage: false
 thumbnail: "../assets/uploads/photo.png"
-date: 2019-03-01T08:29:34.000+00:00
 for_journalist: false
 
 ---

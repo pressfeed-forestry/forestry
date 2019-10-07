@@ -9,7 +9,6 @@ tag:
 - Технологии
 homepage: false
 thumbnail: "../assets/uploads/Skyscrapers-towering-over-the-city.jpeg"
-date: 2019-03-01T13:51:54.000+00:00
 for_journalist: false
 
 ---

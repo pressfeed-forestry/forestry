@@ -12,7 +12,6 @@ tag:
 - Рекрутинг
 homepage: false
 thumbnail: "../assets/uploads/hr_digital.jpg"
-date: 2019-03-03T19:25:31.000+00:00
 for_journalist: false
 
 ---
