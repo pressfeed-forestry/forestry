@@ -1,0 +1,64 @@
+---
+label: Template for podcasts
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Заголовок
+- name: short_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Краткое описание
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Полное описание
+- name: date_number
+  type: number
+  label: Число(дата)
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: month
+  type: text
+  config:
+    required: false
+  label: Месяц(дата)
+- name: iframe
+  type: text
+  config:
+    required: false
+  label: 'Код: share -> embed'
+  description: Должен быть выбран средний макет
+- name: number
+  type: number
+  label: Номер подкаста(для соблюдения последовательности)
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: recommend
+  type: boolean
+  label: Показывать в рекомендациях
+pages:
+- _podcasts/выпуск-2-как-не-надо-писать-письма-журналистам-если-хотите-получать-публикации-в-сми.md
+- _podcasts/выпуск-1-шесть-основных-задач-которые-помогут-вам-решить-публикации-в-сми.md

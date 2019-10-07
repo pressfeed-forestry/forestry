@@ -1,0 +1,95 @@
+---
+label: Template for cases
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Заголовок
+- type: textarea
+  name: lead
+  label: Введение
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: text
+  name: company
+  label: Компания
+- type: list
+  name: tag
+  label: Отрасль
+- type: boolean
+  name: homepage
+  label: Отображать на главной
+- type: file
+  name: thumbnail
+  label: Картинка
+- name: for_journalist
+  type: boolean
+  label: Для журналиста
+- name: number
+  type: number
+  label: Порядковый номер
+  description: ''
+  default: '0'
+  required: true
+  config:
+    min:
+    max:
+    step:
+    required: false
+- name: date
+  type: datetime
+  label: Дата(любая)
+  description: ''
+  config:
+    required: false
+    date_format:
+    time_format:
+    display_utc: false
+  default: now
+pages:
+- _cases/penenza.md
+- _cases/зачем-становиться-колумнистом-в-профильных-сми-личный-опыт-и-первые-результаты-после-полугода-работы-с-медиа.md
+- _cases/perspektiva.md
+- _cases/Key2market.md
+- _cases/second_pasport.md
+- _cases/PR_Partner.md
+- _cases/MelnicaSpace.md
+- _cases/advokat_dmitry_zacarinsky.md
+- _cases/404_Group.md
+- _cases/GPC_Pharmaceuticals.md
+- _cases/dyhanie.md
+- _cases/tvoekino.md
+- _cases/Brusnika.md
+- _cases/baikal_service.md
+- _cases/planeta.ru.md
+- _cases/plushkin-vill.md
+- _cases/rykov_group.md
+- _cases/SearchInform.md
+- _cases/alfa-lizing.md
+- _cases/horoshaya-istoria.md
+- _cases/ICL-Services.md
+- _cases/stepanenko.md
+- _cases/ClientHunter.md
+- _cases/digital_hr.md
+- _cases/gelateria-plombir.md
+- _cases/Curtis_it.md
+- _cases/altsuite.md
+- _cases/MAIL_ICDR.md
+- _cases/plesovskikh.md
+- _cases/osom.md
+- _cases/pos_noy.md
+- _cases/volkov.md
+- _cases/ruc.md
+- _cases/Smart_crypto.md
+- _cases/avtospeccentr.md
+- _cases/softline.md
+- _cases/Glasha.md
+- _cases/Luckyanova.md
+- _cases/feniks_invest.md
+- _cases/tessa-agency.md
+- _cases/intro_technology.md
+- _cases/safaran_tech.md
+- _cases/evodesk.md
