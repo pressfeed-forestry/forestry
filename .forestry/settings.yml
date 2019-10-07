@@ -14,9 +14,6 @@ sections:
   label: Кейсы
   create: all
   match: "**/*"
-- type: jekyll-pages
-  label: Разделы
-  create: all
 - type: directory
   path: _data/testimonials
   label: Отзывы
