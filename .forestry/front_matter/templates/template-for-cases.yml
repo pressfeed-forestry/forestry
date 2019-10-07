@@ -5,6 +5,8 @@ fields:
 - type: text
   name: title
   label: Заголовок
+  config:
+    required: false
 - type: textarea
   name: lead
   label: Введение
@@ -13,21 +15,28 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+    required: false
 - type: text
   name: company
   label: Компания
+  config:
+    required: false
 - type: list
   name: tag
   label: Отрасль
+  config:
+    use_select: false
 - type: boolean
   name: homepage
   label: Отображать на главной
+  default: false
 - type: file
   name: thumbnail
   label: Картинка
 - name: for_journalist
   type: boolean
   label: Для журналиста
+  default: false
 - name: number
   type: number
   label: Порядковый номер
@@ -40,32 +49,34 @@ fields:
     step: 
     required: false
 pages:
-- _cases/evodesk.md
-- _cases/safaran_tech.md
-- _cases/intro_technology.md
-- _cases/tessa-agency.md
-- _cases/feniks_invest.md
-- _cases/Luckyanova.md
-- _cases/Glasha.md
-- _cases/softline.md
-- _cases/avtospeccentr.md
-- _cases/Smart_crypto.md
-- _cases/ruc.md
-- _cases/volkov.md
-- _cases/pos_noy.md
+- _cases/SearchInform.md
+- _cases/perspektiva.md
+- _cases/digital_hr.md
 - _cases/osom.md
-- _cases/plesovskikh.md
+- _cases/feniks_invest.md
+- _cases/Glasha.md
+- _cases/safaran_tech.md
 - _cases/MAIL_ICDR.md
-- _cases/altsuite.md
+- _cases/softline.md
+- _cases/intro_technology.md
+- _cases/evodesk.md
+- _cases/penenza.md
+- _cases/volkov.md
+- _cases/Smart_crypto.md
+- _cases/Luckyanova.md
+- _cases/pos_noy.md
 - _cases/Curtis_it.md
 - _cases/gelateria-plombir.md
-- _cases/digital_hr.md
+- _cases/tessa-agency.md
+- _cases/ruc.md
+- _cases/plesovskikh.md
+- _cases/avtospeccentr.md
+- _cases/altsuite.md
 - _cases/ClientHunter.md
 - _cases/stepanenko.md
 - _cases/ICL-Services.md
 - _cases/horoshaya-istoria.md
 - _cases/alfa-lizing.md
-- _cases/SearchInform.md
 - _cases/rykov_group.md
 - _cases/plushkin-vill.md
 - _cases/planeta.ru.md
@@ -80,6 +91,4 @@ pages:
 - _cases/PR_Partner.md
 - _cases/second_pasport.md
 - _cases/Key2market.md
-- _cases/perspektiva.md
 - _cases/зачем-становиться-колумнистом-в-профильных-сми-личный-опыт-и-первые-результаты-после-полугода-работы-с-медиа.md
-- _cases/penenza.md
