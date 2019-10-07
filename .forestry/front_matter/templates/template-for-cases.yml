@@ -39,16 +39,6 @@ fields:
     max: 
     step: 
     required: false
-- name: date
-  type: datetime
-  label: Дата(любая)
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-  default: now
 pages:
 - _cases/evodesk.md
 - _cases/safaran_tech.md
