@@ -32,9 +32,9 @@ fields:
   default: 0
   required: true
   config:
-    min:
-    max:
-    step:
+    min: 
+    max: 
+    step: 
     required: false
 - name: month
   type: text
@@ -54,9 +54,9 @@ fields:
   default: 0
   required: true
   config:
-    min:
-    max:
-    step:
+    min: 
+    max: 
+    step: 
     required: false
 - name: recommend
   type: boolean
