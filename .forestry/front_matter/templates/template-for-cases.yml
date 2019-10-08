@@ -49,8 +49,8 @@ fields:
     step: 
     required: false
 pages:
-- _cases/how_pressfeed_helps_big_text_be_born.md
 - _cases/how_pressfeed_helps_journalists.md
+- _cases/how_pressfeed_helps_big_text_be_born.md
 - _cases/why_become_a_columnist.md
 - _cases/penenza.md
 - _cases/perspektiva.md
