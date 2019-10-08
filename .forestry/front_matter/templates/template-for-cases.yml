@@ -49,9 +49,9 @@ fields:
     step: 
     required: false
 pages:
+- _cases/how_pressfeed_helps_journalists.md
 - _cases/why_become_a_columnist.md
 - _cases/с-чистого-листа-как-pressfeed-помогает-родиться-большому-тексту.md
-- _cases/Как Pressfeed помогает журналистам.md
 - _cases/penenza.md
 - _cases/perspektiva.md
 - _cases/softline.md
