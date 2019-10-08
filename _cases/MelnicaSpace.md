@@ -12,6 +12,7 @@ tag:
 homepage: false
 thumbnail: "../assets/uploads/melnicaspaceru.jpg"
 for_journalist: false
+number: 280
 
 ---
 ## Как мы решили открыть свой отель

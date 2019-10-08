@@ -9,6 +9,7 @@ tag:
 homepage: true
 thumbnail: "../assets/uploads/thumb-case-4.jpg"
 for_journalist: false
+number: 10
 
 ---
 Softline – крупная IT-компания, работающая в 50 странах мира. Корпорация предлагает бизнесу комплексные технологические решения, облака, программное и аппаратное обеспечение и другие IT-услуги.

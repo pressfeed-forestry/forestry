@@ -13,6 +13,7 @@ tag:
 homepage: false
 thumbnail: "../assets/uploads/lie.jpeg"
 for_journalist: false
+number: 220
 
 ---
 ## Чем занимается компания, и на кого направлен PR

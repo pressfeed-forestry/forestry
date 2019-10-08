@@ -13,6 +13,7 @@ tag:
 homepage: false
 thumbnail: "../assets/uploads/breathing.jpeg"
 for_journalist: false
+number: 330
 
 ---
 ## Как я стала дыхательным терапевтом и запустила свой проект

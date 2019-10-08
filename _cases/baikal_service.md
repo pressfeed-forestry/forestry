@@ -12,6 +12,7 @@ tag:
 homepage: false
 thumbnail: "../assets/uploads/Transport.jpg"
 for_journalist: false
+number: 320
 
 ---
 ## О компании

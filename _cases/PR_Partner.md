@@ -13,6 +13,7 @@ tag:
 homepage: false
 thumbnail: "../assets/uploads/inna_anisimova.jpg"
 for_journalist: false
+number: 290
 
 ---
 ## Агентству тоже нужен пиар

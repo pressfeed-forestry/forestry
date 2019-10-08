@@ -10,7 +10,8 @@ tag:
 - Лизинг
 homepage: false
 thumbnail: "../assets/uploads/alfa-lizing.jpg"
-for_journalist: true
+for_journalist: false
+number: 310
 
 ---
 ## Чем занимается компания

@@ -44,11 +44,13 @@ fields:
   default: '0'
   required: true
   config:
-    min: 
-    max: 
-    step: 
+    min:
+    max:
+    step:
     required: false
 pages:
+- _cases/Как Pressfeed помогает журналистам.md
+- _cases/с-чистого-листа-как-pressfeed-помогает-родиться-большому-тексту.md
 - _cases/SearchInform.md
 - _cases/perspektiva.md
 - _cases/digital_hr.md

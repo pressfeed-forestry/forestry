@@ -12,6 +12,7 @@ tag:
 homepage: false
 thumbnail: "../assets/uploads/gift_shop.jpg"
 for_journalist: false
+number: 360
 
 ---
 ## Продвижение с помощью публикаций в СМИ влияет не только на репутацию, но и на позиции в выдаче

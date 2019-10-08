@@ -10,6 +10,7 @@ tag:
 homepage: false
 thumbnail: "../assets/uploads/ICL_Service_kays.jpg"
 for_journalist: false
+number: 260
 
 ---
 ## Контент-маркетинг и пиар в СМИ: зачем мы стали этим заниматься

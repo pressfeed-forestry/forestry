@@ -13,6 +13,7 @@ tag:
 homepage: true
 thumbnail: assets/uploads/Волков-1400.jpg
 for_journalist: false
+number: 50
 
 ---
 ## Почему мы занялись контент-маркетингом

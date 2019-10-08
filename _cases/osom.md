@@ -10,6 +10,7 @@ tag:
 homepage: false
 thumbnail: assets/uploads/thumb-case-3.jpg
 for_journalist: false
+number: 420
 
 ---
 #### Продукт и целевая аудитория

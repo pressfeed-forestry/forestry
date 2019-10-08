@@ -10,6 +10,7 @@ tag:
 homepage: false
 thumbnail: "../assets/uploads/alfa.jpg"
 for_journalist: false
+number: 60
 
 ---
 ## Кому компания продает автомобили: всем, кто умеет водить
