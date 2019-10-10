@@ -3,7 +3,7 @@ title: 'С чистого листа: как Pressfeed помогает роди
 lead: Редактор медиа онлайн-университета Skillbox и бывший журналист изданий «Секрет
   фирмы», The Village и VC Олег Уппит рассказал, какие проблемы в работе автора решает
   сервис журналистских запросов [Pressfeed](https://pressfeed.ru/?utm_source=news&utm_medium=intro&utm_campaign=lead&utm_content=kak-pressfeed-pomogaet-roditsya-bolshomu-tekstu).
-company: Секрет фирмы
+company: Skillbox
 tag: []
 homepage: false
 thumbnail: "../assets/uploads/article_main.jpg"
