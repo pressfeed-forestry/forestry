@@ -63,5 +63,6 @@ fields:
   label: Показывать в рекомендациях
   default: false
 pages:
+- _podcasts/выпуск-3-как-правильно-писать-статьи-чтобы-сми-их-публиковали.md
 - _podcasts/how_not_to_write_letters.md
 - _podcasts/six_main_tasks.md
