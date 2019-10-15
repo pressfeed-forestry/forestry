@@ -63,6 +63,6 @@ fields:
   label: Показывать в рекомендациях
   default: false
 pages:
+- _podcasts/how_not_to_write_letters.md
 - _podcasts/six_main_tasks.md
 - _podcasts/how_to_write_articles.md
-- _podcasts/how_not_to_write_letters.md
