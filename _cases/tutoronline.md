@@ -1,5 +1,5 @@
 ---
-number: 0
+number: 450
 title: Как мы выросли в 2 раза раза благодаря бесплатному контент-маркетингу
 lead: '_Мы неоднократно сливали бюджеты, но не видели результатов. С тех пор мы не
   привлекаем сторонних подрядчиков и не платим за рекламу в СМИ, но цифры по росту
@@ -10,7 +10,7 @@ company: TutorOnline
 tag:
 - Онлайн-школа
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/TutorOnline.JPG"
 for_journalist: false
 published: false
 
