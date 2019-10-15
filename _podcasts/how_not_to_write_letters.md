@@ -17,7 +17,7 @@ description: "В этом выпуске подкаста «Говорит ко�
   Travelata.ru».](https://news.pressfeed.ru/rabota-s-blogerami-v-instagram-kak-my-poluchaem-prodazhi-i-podpischikov/)
   _Пример публикации, которая получилась в результате правильного обращения в редакцию
   с релевантной тематике издания темой._\n\nВедущая: Елена Локтионова  \nРедактор:
-  Александр Чихачев\n\nСлушайте, где удобно:\n\n* [SoundCloud](https://soundcloud.com/pressfeed)\n*
+  Александр Чихачев\n\n  \nСлушайте, где удобно:\n\n* [SoundCloud](https://soundcloud.com/pressfeed)\n*
   [Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/id1482575931)\n*
   [Castbox](https://castbox.fm/episode/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA-3.-%D0%9A%D0%B0%D0%BA-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8%2C-%D1%87%D1%82%D0%BE%D0%B1%D1%8B-%D0%A1%D0%9C%D0%98-%D0%B8%D1%85-%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8-id2408884-id193417414?country=ru)\n*
   [ВКонтакте](https://vk.com/prsfd)\n\nПодписывайтесь на подкаст «Говорит контент»
