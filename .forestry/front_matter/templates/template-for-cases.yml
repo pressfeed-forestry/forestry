@@ -49,6 +49,7 @@ fields:
     step: 
     required: false
 pages:
+- _cases/как-бесплатные-публикации-в-сми-помогают-технологичной-компании-отстроиться-от-десятков-стартапов-демоверсий.md
 - _cases/tutoronline.md
 - _cases/how_pressfeed_helps_big_text_be_born.md
 - _cases/how_pressfeed_helps_journalists.md
