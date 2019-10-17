@@ -12,7 +12,7 @@ company: Modum Lab
 tag:
 - IT
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/VR.jpg"
 for_journalist: false
 published: false
 
