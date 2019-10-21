@@ -49,7 +49,7 @@ fields:
     step: 
     required: false
 pages:
-- _cases/как-полезный-контент-в-блоге-и-внешних-площадках-помогает-нам-безостановочно-расти-в-течение-пяти-лет.md
+- _cases/turov_vladimir.md
 - _cases/modumlab.md
 - _cases/tutoronline.md
 - _cases/how_pressfeed_helps_big_text_be_born.md
