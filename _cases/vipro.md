@@ -13,7 +13,7 @@ company: VIPRO
 tag:
 - Маркетинг
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/vipro.jpg"
 for_journalist: false
 published: false
 
