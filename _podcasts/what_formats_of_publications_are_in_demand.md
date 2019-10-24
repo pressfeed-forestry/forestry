@@ -10,7 +10,12 @@ description: "В этом выпуске подкаста “Говорит ко
   \ \n3\\. Кейсы.  \n4\\. Колонки экспертов отрасли.\n\nФорматы публикаций, наиболее
   подходящих для топовых СМИ:  \n1\\. Колонка или кейс о трудностях бизнеса.  \n2\\.
   Колонка-совет.  \n3\\. Ньюйсджекинг (в переводе - охота за чужими новостями).  \n4\\.
-  Колонка-исследование.  \n5\\. Колонка-прогноз.\n\nВедущая: Елена Локтионова  \nРедактор:
+  Колонка-исследование.  \n5\\. Колонка-прогноз.\n\nПолезные ссылки по теме:\n\n*
+  [Как мы спасли умирающий блог компании и начали получать с него продажи](https://vc.ru/marketing/53536-kak-my-spasli-umirayushchiy-blog-kompanii-i-nachali-poluchat-s-nego-prodazhi?comment=999876)\n*
+  [Готовая структура для разных типов статей](https://news.pressfeed.ru/tipi-statej/)\n*
+  [Как попасть в Forbes и другие крупные издания со своей публикацией. 5 типов годного
+  контента](https://news.pressfeed.ru/kak-popast-v-forbes-i-drugie-krupnye-izdaniya-so-svoej-publikaciej-5-tipov-godnogo-kontenta/)\n*
+  [Ньюсджекинг: как красиво красть чужие новости]()\n\nВедущая: Елена Локтионова  \nРедактор:
   Александр Чихачев\n\nСлушайте, где удобно:\n\n* [SoundCloud](https://soundcloud.com/pressfeed)\n*
   [Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/id1482575931)\n*
   [Castbox](https://castbox.fm/episode/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA-3.-%D0%9A%D0%B0%D0%BA-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8%2C-%D1%87%D1%82%D0%BE%D0%B1%D1%8B-%D0%A1%D0%9C%D0%98-%D0%B8%D1%85-%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8-id2408884-id193417414?country=ru)\n*
