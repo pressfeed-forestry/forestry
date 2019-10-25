@@ -48,6 +48,10 @@ fields:
     max: 
     step: 
     required: false
+- name: case_vp
+  type: boolean
+  label: Кейс ВП
+  default: false
 pages:
 - _cases/modumlab.md
 - _cases/how_pressfeed_helps_big_text_be_born.md
