@@ -9,6 +9,7 @@ homepage: false
 thumbnail: "../assets/uploads/article_main.jpg"
 for_journalist: true
 number: 450
+case_vp: false
 
 ---
 ## Если нужна альтернатива

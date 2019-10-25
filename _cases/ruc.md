@@ -9,6 +9,7 @@ homepage: false
 thumbnail: assets/uploads/thumb-case-2.jpg
 for_journalist: false
 number: 30
+case_vp: false
 
 ---
 Итак, [Российский университет кооперации](http://www.ruc.su/), я — руководитель пресс-службы.

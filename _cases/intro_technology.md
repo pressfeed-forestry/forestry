@@ -11,6 +11,7 @@ homepage: false
 thumbnail: "../assets/uploads/Skyscrapers-towering-over-the-city.jpeg"
 for_journalist: false
 number: 120
+case_vp: false
 
 ---
 ## Кто мы и зачем нам выходить в новые регионы

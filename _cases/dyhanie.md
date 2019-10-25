@@ -14,6 +14,7 @@ homepage: false
 thumbnail: "../assets/uploads/breathing.jpeg"
 for_journalist: false
 number: 330
+case_vp: false
 
 ---
 ## Как я стала дыхательным терапевтом и запустила свой проект

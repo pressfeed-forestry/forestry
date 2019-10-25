@@ -15,6 +15,7 @@ homepage: false
 thumbnail: "../assets/uploads/clienthunter_alisher_otabaev.jpg"
 for_journalist: false
 number: 250
+case_vp: false
 
 ---
 Специализация агентства [ClientHunter](https://clienthunter.pro/) — создание и продвижение образовательных проектов. Мы помогаем клиентам запускать онлайн-школы с нуля, продумывать программы тренингов и в дальнейшем продюсировать их с помощью различных маркетинговых каналов.

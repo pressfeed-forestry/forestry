@@ -12,6 +12,7 @@ homepage: false
 thumbnail: "../assets/uploads/alfa-lizing.jpg"
 for_journalist: false
 number: 310
+case_vp: false
 
 ---
 ## Чем занимается компания

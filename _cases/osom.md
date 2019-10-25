@@ -11,6 +11,7 @@ homepage: false
 thumbnail: assets/uploads/thumb-case-3.jpg
 for_journalist: false
 number: 420
+case_vp: false
 
 ---
 #### Продукт и целевая аудитория

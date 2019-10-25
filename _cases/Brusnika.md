@@ -14,6 +14,7 @@ homepage: false
 thumbnail: "../assets/uploads/Texxi_Polonskaya.jpg"
 for_journalist: false
 number: 240
+case_vp: false
 
 ---
 ## Репутация и личный бренд руководителя ― то, что отличает нас от других агентств

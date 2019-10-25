@@ -14,6 +14,7 @@ homepage: false
 thumbnail: "../assets/uploads/photo.png"
 for_journalist: false
 number: 110
+case_vp: false
 
 ---
 ## Зачем психотерапевту-эксперту нужны публикации в популярных СМИ

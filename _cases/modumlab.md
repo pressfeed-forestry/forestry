@@ -14,6 +14,7 @@ tag:
 homepage: false
 thumbnail: "../assets/uploads/VR.jpg"
 for_journalist: false
+case_vp: false
 
 ---
 _Рассказывает Каролина Подплетько, руководитель пресс-службы компании Modum Lab._
