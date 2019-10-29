@@ -1,5 +1,5 @@
 ---
-number: 0
+number: 500
 title: 'Опыт малого бизнеса: как транспортная компания привлекает трафик на сайт с
   помощью полезного контента'
 lead: _Как это часто бывает у компаний из сегмента малого бизнеса, бюджеты на продвижение
@@ -11,7 +11,7 @@ company: ОТК «ЮниТранс»
 tag:
 - Логистика
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/Unitrans.jpg"
 for_journalist: false
 case_vp: false
 published: false
