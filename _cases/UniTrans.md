@@ -14,7 +14,6 @@ homepage: false
 thumbnail: "../assets/uploads/Unitrans.jpg"
 for_journalist: false
 case_vp: false
-published: false
 
 ---
 _Рассказывает Евгения Маврина, советник по внешним коммуникациям ОТК «ЮниТранс»_
