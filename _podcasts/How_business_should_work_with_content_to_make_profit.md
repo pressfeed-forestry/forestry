@@ -20,15 +20,11 @@ description: |-
 
   Слушайте, где удобно:
 
-  [SoundCloud](https://soundcloud.com/pressfeed)
-
-  [Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/id1482575931)
-
-  [Castbox](https://castbox.fm/channel/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-id2408884?country=ru)
-
-  [ВКонтакте](https://vk.com/prsfd)
-
-  [Яндекс Музыка](https://music.yandex.ru/album/8967686)
+  * [SoundCloud](https://soundcloud.com/pressfeed)
+  * [Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/id1482575931)
+  * [Castbox](https://castbox.fm/channel/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-id2408884?country=ru)
+  * [ВКонтакте](https://vk.com/prsfd)
+  * [Яндекс Музыка](https://music.yandex.ru/album/8967686)
 
   Подписывайтесь на подкаст «Говорит контент» и не пропускайте полезное!
 date_number: 29
