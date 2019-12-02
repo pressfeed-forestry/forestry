@@ -11,7 +11,7 @@ company: Гертек
 tag:
 - Промышленность
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/gertek_main.jpg"
 for_journalist: false
 case_vp: false
 published: false
