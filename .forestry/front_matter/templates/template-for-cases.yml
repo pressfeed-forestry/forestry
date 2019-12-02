@@ -53,6 +53,7 @@ fields:
   label: Кейс ВП
   default: false
 pages:
+- _cases/как-мы-освежаем-свое-сообщество-авторов-с-помощью-pressfeed.md
 - _cases/UniTrans.md
 - _cases/vipro.md
 - _cases/SearchInform.md
