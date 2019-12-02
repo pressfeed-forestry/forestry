@@ -83,3 +83,8 @@ published: false
 ![](../assets/uploads/gertek_business_insite.jpg)[_Запрос от «Бизнес Инсайт»_](https://pressfeed.ru/query/53823)
 
 На данный момент выпустили 2 совместных текста: первый был посвящен истории успеха «Гертек», а второй — формированию отдела продаж в компании.
+
+![](../assets/uploads/gertek_business_insite2.jpg)  
+[_История успеха «Гертек» в бизнес-блоге_](https://bi-school.ru/istoriya-uspeha-pavel-korotchenko-gertek/)
+
+Также с помощью Pressfeed мы вышли на издание «Генеральный директор» и вновь рассказали им об отделе продаж.
