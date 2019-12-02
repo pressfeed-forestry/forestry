@@ -10,7 +10,6 @@ homepage: true
 thumbnail: "../assets/uploads/Executive-recruiting-768x512.jpg"
 for_journalist: true
 case_vp: false
-published: false
 
 ---
 ### Подаем запросы и собираем ответы
