@@ -13,7 +13,6 @@ homepage: false
 thumbnail: "../assets/uploads/Nikita_lobanov.jpg"
 for_journalist: false
 case_vp: false
-published: false
 
 ---
 ## Почему так важен пиар в медиа (вообще для всех)
