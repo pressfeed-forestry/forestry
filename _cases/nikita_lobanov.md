@@ -1,5 +1,5 @@
 ---
-number: 0
+number: 530
 title: Почему публикации в СМИ так важны, если вашу компанию часто ищут в поисковых
   системах (не только из-за SEO)
 lead: _Никита Лобанов, директор «Продюсерского центра Никиты Лобанова», на своем примере
@@ -10,7 +10,7 @@ company: Продюсерского центра Никиты Лобанова
 tag:
 - PR
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/Nikita_lobanov.jpg"
 for_journalist: false
 case_vp: false
 published: false
