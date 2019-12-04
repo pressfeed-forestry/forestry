@@ -53,7 +53,7 @@ fields:
   label: Кейс ВП
   default: false
 pages:
-- _cases/как-мы-освежаем-свое-сообщество-авторов-с-помощью-pressfeed.md
+- _cases/How_we_refresh_society_of_authors_with_help_of_Pressfeed.md
 - _cases/nikita_lobanov.md
 - _cases/gertek.md
 - _cases/UniTrans.md
