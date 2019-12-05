@@ -53,6 +53,7 @@ fields:
   label: Кейс ВП
   default: false
 pages:
+- _cases/достучаться-до-180-млн-человек-за-один-год-как-продать-потребителю-неизвестный-ему-продукт.md
 - _cases/How_we_refresh_society_of_authors_with_help_of_Pressfeed.md
 - _cases/nikita_lobanov.md
 - _cases/gertek.md
