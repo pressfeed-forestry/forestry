@@ -63,9 +63,9 @@ fields:
   label: Показывать в рекомендациях
   default: false
 pages:
+- _podcasts/what_formats_of_publications_are_in_demand.md
 - _podcasts/How_to_create_a_cool_infopovod.md
+- _podcasts/six_main_tasks.md
+- _podcasts/how_not_to_write_letters.md
 - _podcasts/How_business_should_work_with_content_to_make_profit.md
 - _podcasts/how_to_write_articles.md
-- _podcasts/what_formats_of_publications_are_in_demand.md
-- _podcasts/how_not_to_write_letters.md
-- _podcasts/six_main_tasks.md
