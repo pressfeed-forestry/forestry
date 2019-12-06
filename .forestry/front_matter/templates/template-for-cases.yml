@@ -53,7 +53,7 @@ fields:
   label: Кейс ВП
   default: false
 pages:
-- _cases/охватить-всех-как-пиар-помогает-завоевывать-разные-целевые-аудитории.md
+- _cases/gendalf.md
 - _cases/turov_vladimir.md
 - _cases/vipro.md
 - _cases/gertek.md
