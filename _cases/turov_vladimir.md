@@ -11,7 +11,7 @@ company: Школа Бизнеса Турова Владимира
 tag:
 - Консалтинг
 homepage: false
-thumbnail: "../assets/uploads/VVTurov (1).jpg"
+thumbnail: "../assets/uploads/VVTurov (1)-1.jpg"
 for_journalist: false
 case_vp: false
 
