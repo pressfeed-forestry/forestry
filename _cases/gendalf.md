@@ -1,5 +1,5 @@
 ---
-number: 0
+number: 550
 title: Охватить всех. Как пиар помогает завоевывать разные целевые аудитории
 lead: _Радмила Михалько, ведущий специалист по связям с общественностью компании «ГЭНДАЛЬФ»,
   рассказывает, каким образом публикации в СМИ могут охватывать сразу несколько разных
@@ -8,7 +8,7 @@ company: ГЭНДАЛЬФ
 tag:
 - IT
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/Radmila.jpg"
 for_journalist: false
 case_vp: false
 published: false
