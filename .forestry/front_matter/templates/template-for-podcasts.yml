@@ -64,7 +64,7 @@ fields:
   default: false
 pages:
 - _podcasts/How_business_should_work_with_content_to_make_profit.md
-- _podcasts/How_to_create_a_cool_infopovod.md
+- _podcasts/How_to_create_message.md
 - _podcasts/how_not_to_write_letters.md
 - _podcasts/how_to_write_articles.md
 - _podcasts/six_main_tasks.md
