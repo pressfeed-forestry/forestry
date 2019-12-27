@@ -1,5 +1,5 @@
 ---
-number: 0
+number: 600
 title: Как публикации в СМИ помогают стартапу заявлять о себе на рынке и привлекать
   новых пользователей
 lead: _Почему публикации в СМИ — это обязательный инструмент продвижения для стартапов,
@@ -10,7 +10,7 @@ company: Agro.Club
 tag:
 - Агропромышленность
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/Anna_Kirina.jpg"
 for_journalist: false
 case_vp: false
 published: false
