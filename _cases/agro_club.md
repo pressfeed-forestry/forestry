@@ -13,7 +13,6 @@ homepage: false
 thumbnail: "../assets/uploads/Anna_Kirina.jpg"
 for_journalist: false
 case_vp: false
-published: false
 
 ---
 Наш продукт называется [Agro.Club](https://agro.club/). Это цифровая платформа и мобильное приложение, которые объединяют всех игроков агрорынка в единую экосистему.
