@@ -89,3 +89,15 @@ _Поиск редактора издания по поиску_
 [_Статья на сайте_](https://www.agroinvestor.ru/technologies/article/32052-tsifrovoy-assistent/)
 
 Также было интересное интервью с рассказом о нашем стартапе для Fertilizer Daily. Это популярное в отрасли интернет-издание, посвященное рынку минеральных удобрений и агропромышленности.
+
+![](../assets/uploads/AgroClub_Fertilizer_zapros.jpg)  
+[_Запрос от Fertilizer Daily_](https://pressfeed.ru/query/53530)
+
+> Статья была полностью посвящена проекту Agro.Club. Ее прочитали около 7 тысяч пользователей, а это тысячи потенциальных подписчиков на нашей платформе.
+
+![](../assets/uploads/AgroClub_Fertilizer_tekst.jpg)  
+[_Интервью в Fertilizer Daily_](https://www.fertilizerdaily.ru/20190409-egor-kirin-my-sozdali-platformu-vygodnuyu-vsem-uchastnikam-agrorynka/)
+
+Через Pressfeed мы сотрудничаем не только с отраслевыми, но с общепризнанными деловыми изданиями и медиа-порталами. Делали публикации и упоминались в «Российской газете», на ресурсах «Инвест-Форсайт», «ПОнедельник», Promdevelop, etc.
+
+Журналист воронежского филиала «Российской газеты» искал экспертов в области аграрного хозяйства.
