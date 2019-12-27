@@ -84,3 +84,8 @@ _Поиск редактора издания по поиску_
 [_Запрос от издания_](https://pressfeed.ru/query/55755)
 
 Текст вышел и на сайте «Агроинвестора».
+
+![](../assets/uploads/AgroClub_agrotehnika_tekst.jpg)  
+[_Статья на сайте_](https://www.agroinvestor.ru/technologies/article/32052-tsifrovoy-assistent/)
+
+Также было интересное интервью с рассказом о нашем стартапе для Fertilizer Daily. Это популярное в отрасли интернет-издание, посвященное рынку минеральных удобрений и агропромышленности.
