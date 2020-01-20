@@ -1,5 +1,5 @@
 ---
-title: Как составить контент-план, который реально будет работать
+title: Выпуск 8. Как составить контент-план, который реально будет работать
 short_description: 'В этом выпуске подкаста “Говорит контент” мы рассказали о том,
   как составить реально работающий контент-план. Всего — 8 важных советов-лайфхаков.
 
@@ -18,6 +18,5 @@ iframe: <iframe width="100%" height="166" scrolling="no" frameborder="no" allow=
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/746339614&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 number: 8
 recommend: true
-published: false
 
 ---
