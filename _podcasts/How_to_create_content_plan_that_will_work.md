@@ -11,7 +11,11 @@ description: "В этом выпуске подкаста “Говорит ко
   контент с интерактивом.\n\n4\\. Правильно рассчитайте нагрузку.\n\n5\\. Оставьте
   в контент-плане поле для маневра.\n\n6\\. Не рассчитывайте на других людей.\n\n7\\.
   Разнообразьте форматы контента.\n\n8\\. Вдохновляйтесь.\n\nВедущая: Елена Локтионова
-  \ \nРедактор: Александр Чихачев"
+  \ \nРедактор: Александр Чихачев\n\n**_Слушайте, где удобно:_**\n\n* [SoundCloud](https://soundcloud.com/pressfeed/vypusk-8-kak-sostavit-kontent-plan-kotoryy-realno-budet-rabotat)\n*
+  [Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82/id1482575931)\n*
+  [ВКонтакте](https://vk.com/podcasts-92086117)\n* [Яндекс Музыка](https://music.yandex.ru/album/8967686)\n*
+  [Журнал Pressfeed](https://news.pressfeed.ru/category/podcast/)\n\nПодписывайтесь
+  на подкаст «Говорит контент» и не пропускайте полезное!"
 date_number: 20
 month: Январь
 iframe: <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
