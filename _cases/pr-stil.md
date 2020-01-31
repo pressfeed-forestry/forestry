@@ -12,7 +12,6 @@ homepage: false
 thumbnail: "../assets/uploads/pr-stil.jpeg"
 for_journalist: false
 case_vp: false
-published: false
 
 ---
 ## Проблема
