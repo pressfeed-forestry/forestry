@@ -1,5 +1,5 @@
 ---
-number: 0
+number: 620
 title: Выйти из кризиса. Как поднять продажи с нуля до среднерыночных показателей
   с помощью пиара
 lead: _Марина Скубицкая, директор компании «PR-стиль» поделилась опытом, как вывести
@@ -9,7 +9,7 @@ company: PR-стиль
 tag:
 - Недвижимость
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/pr-stil.jpeg"
 for_journalist: false
 case_vp: false
 published: false
