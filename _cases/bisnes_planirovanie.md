@@ -1,5 +1,5 @@
 ---
-number: 0
+number: 610
 title: 'Как привлекать новых клиентов с помощью полезного контента в деловых СМИ и
   на сайте компании  '
 lead: _Как полезный контент на сайте и на внешних площадках стал центром стратегии
@@ -10,7 +10,7 @@ company: Эксперты бизнес-планирования
 tag:
 - Консалтинг
 homepage: true
-thumbnail: ''
+thumbnail: "../assets/uploads/bisnesplanirovanie.jpeg"
 for_journalist: false
 case_vp: false
 published: false
