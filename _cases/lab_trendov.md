@@ -1,5 +1,5 @@
 ---
-number: 0
+number: 630
 title: Как развивать бизнес без отдела продаж, а только с помощью полезного контента.
   История компании «Лаборатория трендов»
 lead: _Елена Пономарева, генеральный директор «Лаборатория трендов», рассказывает
@@ -10,7 +10,7 @@ company: Лаборатория трендов
 tag:
 - Маркетинг
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/trends_lab.jpg"
 for_journalist: false
 case_vp: false
 published: false
