@@ -7,7 +7,7 @@ lead: Анастасия Жигач – корреспондент издани�
 company: Деловой Петербург
 tag: []
 homepage: true
-thumbnail: "../assets/uploads/_53255-330.jpg"
+thumbnail: "../assets/uploads/53255-330.jpg"
 for_journalist: true
 case_vp: false
 
