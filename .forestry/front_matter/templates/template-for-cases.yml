@@ -54,7 +54,6 @@ fields:
   default: false
 pages:
 - _cases/404_Group.md
-- _cases/Attention_of_experts_how_to_get_into_the_author_pool_RBC_Pro.md
 - _cases/Brusnika.md
 - _cases/ClientHunter.md
 - _cases/Curtis_it.md
@@ -79,6 +78,7 @@ pages:
 - _cases/agro_club.md
 - _cases/alfa-lizing.md
 - _cases/altsuite.md
+- _cases/attention_of_experts_how_to_get_into_the_author_pool_rbc_pro.md
 - _cases/avtospeccentr.md
 - _cases/baikal_service.md
 - _cases/bisnes_planirovanie.md
