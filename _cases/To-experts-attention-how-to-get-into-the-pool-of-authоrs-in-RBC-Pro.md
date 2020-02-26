@@ -7,7 +7,7 @@ lead: Редактор проекта холдинга РБК Дарья Але�
 company: РБК Pro
 tag: []
 homepage: true
-thumbnail: "../assets/uploads/rbk-pro.jpg"
+thumbnail: "../assets/uploads/RBC.png"
 for_journalist: true
 case_vp: false
 
