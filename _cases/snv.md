@@ -13,7 +13,6 @@ homepage: false
 thumbnail: "../assets/uploads/snv_keis.jpeg"
 for_journalist: false
 case_vp: false
-published: false
 
 ---
 ## Какую роль пиар играет в b2b-сфере
