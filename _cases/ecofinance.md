@@ -10,7 +10,7 @@ company: Экофинанс
 tag:
 - Финансы
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/ecofinance_keis.jpeg"
 for_journalist: false
 case_vp: false
 published: false
