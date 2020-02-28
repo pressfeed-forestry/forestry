@@ -10,7 +10,7 @@ company: SVN
 tag:
 - Коммерческая недвижимость
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/snv_keis.jpeg"
 for_journalist: false
 case_vp: false
 published: false
