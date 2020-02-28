@@ -13,7 +13,6 @@ homepage: false
 thumbnail: "../assets/uploads/ecofinance_keis.jpeg"
 for_journalist: false
 case_vp: false
-published: false
 
 ---
 ## Проблема: в обществе сохраняются стереотипы о микрофинансах
