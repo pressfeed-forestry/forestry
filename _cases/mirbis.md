@@ -9,7 +9,7 @@ company: МИРБИС
 tag:
 - Бизнес-школа
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/mirbis.jpeg"
 for_journalist: false
 case_vp: false
 published: false
