@@ -26,7 +26,8 @@ description: "В этом выпуске мы рассказали на собс
   написать хорошую статью. Инструкция](https://news.pressfeed.ru/kak-napisat-xoroshuyu-statyu-instrukciya/)"
 date_number: 11
 month: Марта
-iframe: ''
+iframe: <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/774154789&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 recommend: true
 published: false
 
