@@ -1,6 +1,6 @@
 ---
 number: 11
-title: " Выпуск 11. Как заниматься внешним контент-маркетингом"
+title: Выпуск 11. Как заниматься внешним контент-маркетингом
 lead: ''
 company: ''
 tag: []
@@ -24,7 +24,7 @@ description: "В этом выпуске мы рассказали на собс
   контент. Какие форматы публикаций популярны у читателей](https://news.pressfeed.ru/godnyj-kontent-kakie-formaty-publikacij-populyarny-u-chitatelej/)\n\n[Подкаст
   «Говорит контент». Выпуск 9. Как написать хороший пресс-релиз](https://news.pressfeed.ru/podkast-govorit-kontent-vypusk-9-kak-napisat-xoroshij-press-reliz/)\n\n[Как
   написать хорошую статью. Инструкция](https://news.pressfeed.ru/kak-napisat-xoroshuyu-statyu-instrukciya/)"
-date_number: '11'
+date_number: 11
 month: Марта
 iframe: ''
 recommend: true
