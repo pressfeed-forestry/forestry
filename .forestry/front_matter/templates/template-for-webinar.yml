@@ -1,4 +1,55 @@
 ---
 label: Template for webinar
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Название
+- name: photo
+  type: file
+  config:
+    maxSize: '5'
+  label: Фото
+- name: date
+  type: text
+  config:
+    required: true
+  label: Дата вебинара
+  description: Дата вебинара в формате 30 ноября 2019
+- name: date_and_time
+  type: text
+  config:
+    required: true
+  label: Дата и время вебинара
+  description: Дата вебинара в формате 18 января в 20:00
+- name: link
+  type: text
+  config:
+    required: false
+  label: Ссылка на видео
+- name: script_link
+  type: text
+  config:
+    required: false
+  label: Ссылка на скрипт формы геткурс
+  hidden: false
+- name: duration
+  type: text
+  config:
+    required: false
+  label: Длительность
+  description: Длительность видео в формате 2ч. 46мин.
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Описание
+- name: is_end
+  type: boolean
+  label: Закончился
