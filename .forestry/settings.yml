@@ -5,6 +5,13 @@ admin_path: ".forestry"
 webhook_url: 
 sections:
 - type: directory
+  path: _webinars
+  label: Вебинары
+  create: all
+  match: "**/*"
+  templates:
+  - template-for-webinar
+- type: directory
   path: _podcasts
   label: Подкасты
   create: all
