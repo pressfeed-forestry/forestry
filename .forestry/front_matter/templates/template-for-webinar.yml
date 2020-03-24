@@ -53,3 +53,5 @@ fields:
 - name: is_end
   type: boolean
   label: Закончился
+pages:
+- _webinars/тестовый-вебинар.md
