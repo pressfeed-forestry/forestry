@@ -54,4 +54,4 @@ fields:
   type: boolean
   label: Закончился
 pages:
-- _webinars/тестовый-вебинар.md
+- _webinars/test_webinar.md
