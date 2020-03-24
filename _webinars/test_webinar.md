@@ -15,5 +15,6 @@ description: |-
 
   Тестирование.
 is_end: false
+date_text: 24 марта 2020
 
 ---
