@@ -53,5 +53,17 @@ fields:
 - name: is_end
   type: boolean
   label: Закончился
+- name: order_number
+  type: number
+  label: Порядковый номер
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+    required: true
+  hidden: false
 pages:
 - _webinars/test_webinar.md
