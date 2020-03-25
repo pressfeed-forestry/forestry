@@ -66,5 +66,5 @@ fields:
     required: true
   hidden: false
 pages:
+- _webinars/How-to-get-customers-through-the-media.md
 - _webinars/test_webinar.md
-- _webinars/как-получать-клиентов-с-помощью-сми.md
