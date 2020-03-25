@@ -1,7 +1,6 @@
 ---
 title: Как получать клиентов с помощью СМИ
-photo: "../assets/uploads/https___edu.pressfeed.ru_web2811 — Яндекс.Браузер 2020-03-25
-  09.50.16.jpg"
+photo: "../assets/uploads/sdfgrer23dsf.jpg"
 date_text: 28 ноября 2019
 date_and_time: 28 ноября 2019 в 19:00
 link: https://youtu.be/fVJKF0F_zmE
