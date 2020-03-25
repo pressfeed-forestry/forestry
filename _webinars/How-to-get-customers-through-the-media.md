@@ -5,7 +5,7 @@ photo: "../assets/uploads/https___edu.pressfeed.ru_web2811 — Яндекс.Бр
 date_text: 28 ноября 2019
 date_and_time: 28 ноября 2019 в 19:00
 link: https://youtu.be/fVJKF0F_zmE
-script_link: <script id="eb32d0460b5f4d177857bc2cfd342f93f57122e7" src="https://edu.pressfeed.ru/pl/lite/widget/script?id=176708"></script>
+script_link: ''
 duration: 4ч. 44 мин.
 description: |-
   Пять тактик, которыми пользуются единицы и получают поток заявок без рекламных бюджетов.
