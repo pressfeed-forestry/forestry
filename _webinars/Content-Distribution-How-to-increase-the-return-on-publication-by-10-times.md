@@ -3,7 +3,9 @@ title: Дистрибуция контента. Как увеличить отд
 photo: "../assets/uploads/analytics_3265840_1920_cr3x2.jpg"
 date_text: 12 декабря 2019
 date_and_time: 12 декабря 2019 в 19:00
-link: https://youtu.be/Vara0MTw8_o
+link: <iframe width="560" height="315" src="https://www.youtube.com/embed/Vara0MTw8_o"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 script_link: ''
 duration: 2ч. 20мин.
 description: "Узнайте приемы прокачанных специалистов и снизьте затраты на рекламу
