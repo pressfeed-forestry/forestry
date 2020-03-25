@@ -66,6 +66,6 @@ fields:
     required: true
   hidden: false
 pages:
+- _webinars/Content-Distribution-How-to-increase-the-return-on-publication-by-10-times.md
 - _webinars/How-to-get-customers-through-the-media.md
 - _webinars/test_webinar.md
-- _webinars/дистрибуция-контента-как-увеличить-отдачу-от-публикации-в-10-раз.md
