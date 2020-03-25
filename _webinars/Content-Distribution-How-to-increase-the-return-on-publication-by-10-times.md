@@ -1,6 +1,6 @@
 ---
 title: Дистрибуция контента. Как увеличить отдачу от публикации в 10 раз
-photo: ''
+photo: "../assets/uploads/analytics_3265840_1920_cr3x2.jpg"
 date_text: 12 декабря 2019
 date_and_time: 12 декабря 2019 в 19:00
 link: https://youtu.be/Vara0MTw8_o
