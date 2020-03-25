@@ -1,6 +1,6 @@
 ---
 title: Как получать клиентов с помощью СМИ
-photo: "../assets/uploads/sdfgrer23dsf.jpg"
+photo: ''
 date_text: 28 ноября 2019
 date_and_time: 28 ноября 2019 в 19:00
 link: https://youtu.be/fVJKF0F_zmE
