@@ -17,6 +17,5 @@ description: "Продвижение с помощью публикаций СМ
   этой книги, добившихся потрясающих результатов."
 photo: "../assets/uploads/dsfsdfd-SDFS.jpg"
 script: <script id="b6a3960cc04884e635862d55fa1a4c89cca4d1d4" src="https://edu.pressfeed.ru/pl/lite/widget/script?id=144116"></script>
-published: false
 
 ---
