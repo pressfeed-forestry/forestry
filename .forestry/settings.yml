@@ -5,6 +5,13 @@ admin_path: ".forestry"
 webhook_url: 
 sections:
 - type: directory
+  path: _books
+  label: Книги
+  create: all
+  match: "**/*"
+  templates:
+  - template-for-book
+- type: directory
   path: _webinars
   label: Вебинары
   create: all
