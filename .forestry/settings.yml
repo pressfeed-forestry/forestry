@@ -9,8 +9,6 @@ sections:
   label: Книги
   create: all
   match: "**/*"
-  templates:
-  - template-for-book
 - type: directory
   path: _webinars
   label: Вебинары
