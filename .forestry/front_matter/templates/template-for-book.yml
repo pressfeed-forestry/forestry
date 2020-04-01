@@ -1,4 +1,53 @@
 ---
 label: Template for book
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Название
+- name: announcement
+  type: text
+  config:
+    required: true
+  label: Анонс
+- name: short_description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Краткое описание
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Подробное описание
+- name: photo
+  type: file
+  config:
+    maxSize: '5'
+  label: Фото
+- name: number
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+    required: true
+  label: Порядковый номер
+- name: script
+  type: text
+  config:
+    required: true
+  label: Скрипт формы геткурса
