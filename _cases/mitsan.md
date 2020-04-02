@@ -9,7 +9,7 @@ lead: |-
 company: Mitsan Consulting
 tag: []
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/mitsan.jpg"
 for_journalist: false
 case_vp: false
 published: false
