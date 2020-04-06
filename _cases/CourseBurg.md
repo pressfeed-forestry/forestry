@@ -9,7 +9,7 @@ company: CourseBurg
 tag:
 - Маркетплейс
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/courseburg.jpg"
 for_journalist: false
 case_vp: false
 published: false
