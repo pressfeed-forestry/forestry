@@ -14,7 +14,6 @@ homepage: false
 thumbnail: "../assets/uploads/infomaksimum.jpg"
 for_journalist: false
 case_vp: false
-published: false
 
 ---
 ## Что такое «Инфомаксимум»
