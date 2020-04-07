@@ -10,7 +10,7 @@ company: Цифра
 tag:
 - IT
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/zifra_ksenia.jpg"
 for_journalist: false
 case_vp: false
 published: false
