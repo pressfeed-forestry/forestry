@@ -33,6 +33,5 @@ is_end: true
 photo: "../assets/uploads/0ada7a1cad7e6c7980f3340bb16b6e47.png"
 speaker_info: Владислав Коваленко, главный редактор Banki.ru
 webinar_type: Лекторий
-published: false
 
 ---
