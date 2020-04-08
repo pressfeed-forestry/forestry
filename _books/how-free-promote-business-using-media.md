@@ -16,6 +16,6 @@ description: "Продвижение с помощью публикаций СМ
   значительного времени и специальных знаний. Подтверждение тому — истории героев
   этой книги, добившихся потрясающих результатов."
 photo: "../assets/uploads/dsfsdfd-SDFS.jpg"
-script: <script id="b6a3960cc04884e635862d55fa1a4c89cca4d1d4" src="https://edu.pressfeed.ru/pl/lite/widget/script?id=144116"></script>
+script: <script id="fa517c2656c6455f2bbcc262cee88fb9bcfcaded" src="https://edu.pressfeed.ru/pl/lite/widget/script?id=184024"></script>
 
 ---
