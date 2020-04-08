@@ -96,7 +96,7 @@ fields:
     required: true
   hidden: false
 pages:
-- _webinars/12-золотых-правил-работы-со-сми.md
+- _webinars/12-golden-rules-work-with-media.md
 - _webinars/distribution-content-how-to-increase-return-from-publication-10-fold.md
 - _webinars/how-to-receive-customers-from-media-on-a-machine-and-without-cost.md
 - _webinars/targeted-pr-how-to-make-content-super-address-and-force-to-hit-just-in-target.md
