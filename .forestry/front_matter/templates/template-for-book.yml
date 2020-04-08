@@ -52,6 +52,6 @@ fields:
     required: true
   label: Скрипт формы геткурса
 pages:
-- _books/5-шагов-к-гарантированной-публикации.md
+- _books/5-steps-to-guaranteed-publication.md
 - _books/how-free-promote-business-using-media.md
 - _books/where-and-how-publish-articles-for free.md
