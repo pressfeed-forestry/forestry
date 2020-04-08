@@ -7,11 +7,16 @@ fields:
   config:
     required: true
   label: Название
-- name: photo
+- name: image
   type: file
   config:
     maxSize: '5'
-  label: Фото
+  label: Обложка
+- name: image_2
+  type: file
+  config:
+    maxSize: 5
+  label: Обложка внутри
 - name: date_text
   type: text
   config:
@@ -53,6 +58,31 @@ fields:
 - name: is_end
   type: boolean
   label: Закончился
+- name: photo
+  type: file
+  config:
+    maxSize: 5
+  label: Фото спикера
+- name: speaker_info
+  type: text
+  config:
+    required: false
+  label: Информация о спикере
+- name: webinar_type
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Простой
+    - Горячая линия
+    - Лекторий
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Тип вебинара
 - name: order_number
   type: number
   label: Порядковый номер
