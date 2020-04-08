@@ -14,6 +14,5 @@ is_end: false
 photo: "../assets/uploads/207.png"
 speaker_info: Роман Кумар Виас, маркетолог
 webinar_type: Лекторий
-published: false
 
 ---
