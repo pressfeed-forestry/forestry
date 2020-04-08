@@ -20,6 +20,5 @@ is_end: true
 photo: ''
 speaker_info: ''
 webinar_type: Простой
-published: false
 
 ---
