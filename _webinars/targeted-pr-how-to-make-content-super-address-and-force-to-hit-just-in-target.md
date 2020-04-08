@@ -1,5 +1,5 @@
 ---
-order_number: 50
+order_number: 100
 title: Таргетированный PR. Как сделать контент суперадресным и заставить бить точно
   в цель.
 image: "../assets/uploads/123123.jpg"
