@@ -50,7 +50,7 @@ fields:
   type: textarea
   default: ''
   config:
-    required: false
+    required: true
     wysiwyg: true
     schema:
       format: markdown
@@ -72,7 +72,7 @@ fields:
   type: select
   default: ''
   config:
-    required: false
+    required: true
     options:
     - Простой
     - Горячая линия
