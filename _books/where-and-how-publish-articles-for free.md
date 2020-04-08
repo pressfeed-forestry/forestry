@@ -19,6 +19,6 @@ description: "Наш опыт общения с компаниями показ�
   поле», как изменится ваша позиция на рынке, рейтинг по сравнению с конкурентами,
   отношение потребителей!"
 photo: "../assets/uploads/18places-book.png"
-script: <script id="b6a3960cc04884e635862d55fa1a4c89cca4d1d4" src="https://edu.pressfeed.ru/pl/lite/widget/script?id=144116"></script>
+script: <script id="4e2b1fd23f64109d1918de578cf70c29baf8aabb" src="https://edu.pressfeed.ru/pl/lite/widget/script?id=184023"></script>
 
 ---
