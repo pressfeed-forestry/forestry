@@ -9,7 +9,7 @@ link: <iframe width="560" height="315" src="https://www.youtube.com/embed/Rxdb4X
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
 script_link: ''
-duration: ''
+duration: 3ч. 23мин.
 description: |-
   Горячая линия Pressfeed в формате вопрос-ответ с основателем Pressfeed Константином Бочарским.
 
