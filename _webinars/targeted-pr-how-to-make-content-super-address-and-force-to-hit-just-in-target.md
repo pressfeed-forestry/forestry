@@ -7,7 +7,7 @@ image_2: "../assets/uploads/Lektory_fon.jpg"
 date_text: 9 апреля 2020
 date_and_time: 9 апреля в 12:00
 link: ''
-script_link: <script id="eb32d0460b5f4d177857bc2cfd342f93f57122e7" src="https://edu.pressfeed.ru/pl/lite/widget/script?id=176708"></script>
+script_link: ''
 duration: ''
 description: |-
   Как создавать контент, который бьет точно в цель?
@@ -27,7 +27,7 @@ description: |-
   * Как использовать публикации в СМИ, сторителлинг и контент -  вместе или вместо платных способов лидогенерации?
 
   **Узнайте мнение известного маркетолога и успешного бизнесмена!**
-is_end: false
+is_end: true
 photo: "../assets/uploads/207.png"
 speaker_info: Роман Кумар Виас, маркетолог
 webinar_type: Лекторий
