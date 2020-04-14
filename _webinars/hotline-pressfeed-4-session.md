@@ -6,7 +6,7 @@ image_2: "../assets/uploads/GL_fon-3.jpg"
 date_text: 10 апреля 2020
 date_and_time: 10 апреля в 12:00
 link: ''
-script_link: <script id="eb32d0460b5f4d177857bc2cfd342f93f57122e7" src="https://edu.pressfeed.ru/pl/lite/widget/script?id=176708"></script>
+script_link: ''
 duration: ''
 description: |-
   Горячая линия Pressfeed в формате вопрос-ответ с основателем Pressfeed Константином Бочарским.
