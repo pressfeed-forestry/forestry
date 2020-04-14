@@ -5,7 +5,9 @@ image: "../assets/uploads/S4.jpg"
 image_2: "../assets/uploads/GL_fon-3.jpg"
 date_text: 10 апреля 2020
 date_and_time: 10 апреля в 12:00
-link: ''
+link: <iframe width="560" height="315" src="https://www.youtube.com/embed/2p4_8kVBL_8"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 script_link: ''
 duration: " 2ч. 46мин."
 description: |-
