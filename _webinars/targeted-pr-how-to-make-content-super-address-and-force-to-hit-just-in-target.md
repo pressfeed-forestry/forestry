@@ -6,9 +6,11 @@ image: "../assets/uploads/123123.jpg"
 image_2: "../assets/uploads/Lektory_fon.jpg"
 date_text: 9 апреля 2020
 date_and_time: 9 апреля в 12:00
-link: ''
+link: <iframe width="560" height="315" src="https://www.youtube.com/embed/55uWgGMeMSc"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 script_link: ''
-duration: ''
+duration: 1ч. 20мин.
 description: |-
   Как создавать контент, который бьет точно в цель?
 
