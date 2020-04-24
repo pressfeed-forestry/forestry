@@ -1,22 +1,23 @@
 ---
-order_number: 130
-title: Горячая линия Pressfeed - сессия 6
-image: "../assets/uploads/S6.jpg"
-image_2: "../assets/uploads/GL_fon-6.jpg"
-date_text: 24 апреля 2020
-date_and_time: 24 апреля в 20:00
+order_number: 150
+title: Горячая линия Pressfeed - сессия 7
+image: "../assets/uploads/S7.jpg"
+image_2: "../assets/uploads/GL_fon-7.jpg"
+date_text: 1 мая 2020
+date_and_time: 1 мая в 20:00
 link: ''
-script_link: ''
+script_link: <script id="eb32d0460b5f4d177857bc2cfd342f93f57122e7" src="https://edu.pressfeed.ru/pl/lite/widget/script?id=176708"></script>
 duration: ''
 description: |-
   Горячая линия Pressfeed в формате вопрос-ответ с основателем Pressfeed Константином Бочарским.
 
-  **Сессия 6 от 24 апреля**.
+  **Сессия 7 от 1 мая**.
 
   Ответы на вопросы о продвижении, о том, где сейчас найти бесплатный трафик, как убедить руководство использовать современные инструменты продвижения, что делать и как продвигаться в кризисные моменты и многие другие вопросы. Сейчас самое время начать использовать нестандартные бюджетные возможности для привлечения клиентов и публикации в СМИ - это один из немногих бесплатных инструментов продвижения бизнеса, который еще остался.
-is_end: true
+is_end: false
 photo: ''
 speaker_info: ''
 webinar_type: Горячая линия
+published: false
 
 ---
