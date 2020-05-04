@@ -7,7 +7,7 @@ date_text: 8 мая 2020
 date_and_time: 8 мая в 12:00
 link: ''
 script_link: <script id="eb32d0460b5f4d177857bc2cfd342f93f57122e7" src="https://edu.pressfeed.ru/pl/lite/widget/script?id=176708"></script>
-duration: ''
+duration: 2ч. 30мин
 description: |-
   Горячая линия Pressfeed в формате вопрос-ответ с основателем Pressfeed **Константином Бочарским** и специальным гостем эфира генеральным директором коммуникационного агентства PR партнер **Инной Анисимовой**.
 
