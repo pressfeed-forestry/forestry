@@ -5,9 +5,11 @@ image: "../assets/uploads/S6.jpg"
 image_2: "../assets/uploads/GL_fon-6.jpg"
 date_text: 24 апреля 2020
 date_and_time: 24 апреля в 20:00
-link: ''
+link: <iframe width="560" height="315" src="https://www.youtube.com/embed/s9q3HZESEDM"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 script_link: ''
-duration: ''
+duration: 3ч. 17мин.
 description: |-
   Горячая линия Pressfeed в формате вопрос-ответ с основателем Pressfeed Константином Бочарским.
 
