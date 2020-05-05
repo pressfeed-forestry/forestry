@@ -14,7 +14,6 @@ homepage: false
 thumbnail: "../assets/uploads/er_telekom.jpg"
 for_journalist: false
 case_vp: false
-published: false
 
 ---
 ## Роль пиара на фоне больших бюджетов на маркетинг
