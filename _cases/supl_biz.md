@@ -9,7 +9,7 @@ company: Supl.biz
 tag:
 - Ритейлер
 homepage: false
-thumbnail: "../assets/uploads/супл биз.jpg"
+thumbnail: "../assets/uploads/supl_biz.jpg"
 for_journalist: false
 case_vp: false
 
