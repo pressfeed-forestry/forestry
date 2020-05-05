@@ -11,7 +11,7 @@ company: Coleman Services
 tag:
 - Консалтинг
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/coleman.jpeg"
 for_journalist: false
 case_vp: false
 published: false
