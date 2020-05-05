@@ -12,7 +12,7 @@ company: Ivideon
 tag:
 - IT
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/sea.jpg"
 for_journalist: false
 case_vp: false
 published: false
