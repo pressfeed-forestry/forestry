@@ -11,7 +11,7 @@ lead: _Портал_ [_«Бизнес.ру»_](https://www.business.ru/)_, ка�
 company: Бизнес.ру
 tag: []
 homepage: false
-thumbnail: ''
+thumbnail: "../assets/uploads/business.jpg"
 for_journalist: true
 case_vp: false
 
