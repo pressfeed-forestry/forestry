@@ -7,7 +7,8 @@ lead: |-
 
   _Один из самых эффективных способов сформировать такое доверие — делать публикации с участием компании в хороших СМИ. Рассказывает Дмитрий Желнин, управляющий партнер_ [_Mitsan Consulting_](https://mitsan.pro/)_._
 company: Mitsan Consulting
-tag: []
+tag:
+- Консалтинг
 homepage: true
 thumbnail: "../assets/uploads/mitsan.jpg"
 for_journalist: false
